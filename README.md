@@ -48,7 +48,9 @@ You will receive an invitation to join prior to the first class.
 ## Course materials
 We will read from several online resources and tutorials. I strongly encourage you to read all of the material in the following:
 
-XXX
+* [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+* [Pro Git](https://git-scm.com/book/en/v2)
+* [BASH basics](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 
 Specific, selected readings for the course will be listed in the course schedule below.
 
@@ -66,18 +68,18 @@ Grades will come 50% from the programming projects and 50% from class participat
 
 ## Class schedule
 
-| Date |  Topic | Reading | Homework Assigned |
-| ---- | ------------- | ----------------- | ------- | ----------------- |
-|   Mon Mar 30   | Course overview, features of good and bad software pipelines, automation, version control [slides](slides/XXX) | No readings | |
-|   Wed Apr 1   | [slides](slides/XXX) | [Git basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/); | |
-|   Mon Apr 6   | [](slides/XXX) | | |
-|   Wed Apr 8  | [](slides/XXX)  | | |
-|   Mon Apr 13   | [](slides/XXX)  | | |
-|   Wed Apr 15   | [](slides/XXX) | | |
-|   Mon Apr 20   | [](slides/XXX) | | |
-|   Wed Apr 22   | [](slides/XXX) |  | | |
-|   Mon Apr 27  |  |
-|   Wed Apr 29  |  |
+| Date |  Topic | Reading | 
+| ---- | ------------- | ----------------- | ------- |
+|   Mon Mar 30   | [Course overview, student setup, and version control](slides/XXX) | [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/);  | 
+|   Wed Apr 1   | [Intro to bioinformatics pipelines, automation](slides/XXX) | [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
+|   Mon Apr 6   | [](slides/XXX) | | 
+|   Wed Apr 8  | [](slides/XXX)  | | 
+|   Mon Apr 13   | [](slides/XXX)  | | 
+|   Wed Apr 15   | [](slides/XXX) | | 
+|   Mon Apr 20   | [](slides/XXX) | | 
+|   Wed Apr 22   | [](slides/XXX) |  | | 
+|   Mon Apr 27  |  
+|   Wed Apr 29  |  
 
 <!-- ## Input files
 
