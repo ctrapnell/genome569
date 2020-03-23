@@ -70,16 +70,16 @@ Grades will come 50% from the programming projects and 50% from class participat
 
 | Date |  Topic | Reading | 
 | ---- | ------------- | ----------------- | 
-|   Mon Mar 30   | [Course overview, student setup, and version control](slides/XXX) | [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)  | 
-|   Wed Apr 1   | [Intro to bioinformatics pipelines, automation](slides/XXX) | [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
-|   Mon Apr 6   | [](slides/XXX) | | 
-|   Wed Apr 8  | [](slides/XXX)  | | 
-|   Mon Apr 13   | [](slides/XXX)  | | 
-|   Wed Apr 15   | [](slides/XXX) | | 
-|   Mon Apr 20   | [](slides/XXX) | | 
-|   Wed Apr 22   | [](slides/XXX) |  | | 
-|   Mon Apr 27  |  
-|   Wed Apr 29  |  
+|  3/30   | [Course overview, student setup, and version control](slides/XXX) | [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)  | 
+|  4/1  | [Intro to bioinformatics pipelines, automation](slides/XXX) | [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
+|   4/6   | [](slides/XXX) | | 
+|   4/8  | [](slides/XXX)  | | 
+|   4/13  | [](slides/XXX)  | | 
+|   4/15   | [](slides/XXX) | | 
+|   4/20   | [](slides/XXX) | | 
+|   4/22   | [](slides/XXX) |  
+|   4/27  |  | |
+|   4/29  |  | |
 
 <!-- ## Input files
 
