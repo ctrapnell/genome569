@@ -74,7 +74,7 @@ Specific, selected readings for the course will be listed in the course schedule
 
 | Date |  Topic | Reading | 
 | ---- | ------------- | ----------------- | 
-|  3/30   | [Course overview, student setup, and version control](slides/XXX) | [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/; [Packer et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/))  | 
+|  3/30   | [Course overview, student setup, and version control](slides/course_1_intro/) | [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/; [Packer et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/))  | 
 |  4/1  | [Intro to bioinformatics pipelines, automation](slides/XXX) | [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
 |   4/6   | [](slides/XXX) | | 
 |   4/8  | [](slides/XXX)  | | 
