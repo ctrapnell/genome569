@@ -13,9 +13,6 @@
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 
-
-
-
 ## Course description
 Programming skills and software tools for building automated bioinformatics pipelines and computational biology analyses. Emphasis on UNIX tools and R libraries for distilling raw sequencing data into interpretable results.  This course is aimed at students familiar with UNIX and with some programming experience in python, R, or C/C++.
 
@@ -45,15 +42,6 @@ You will receive an invitation to join prior to the first class.
 * Some programming experience in python, R, or C/C++. 
 * Students are encouraged to have taken GENOME559 and/or GENOME560.
 
-## Course materials
-We will read from several online resources and tutorials. I strongly encourage you to read all of the material in the following:
-
-* [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
-* [Pro Git](https://git-scm.com/book/en/v2)
-* [BASH basics](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
-
-Specific, selected readings for the course will be listed in the course schedule below.
-
 ## Course requirements
 * The course involves hands-on programming during class time. We will use the GS compute cluster, so make sure you can log into it from your computer remotely.
 * All programming projects are due by the start of class on the date listed.
@@ -66,11 +54,27 @@ There will be no examinations.
 ## Course grade
 Grades will come 50% from the programming projects and 50% from class participation. However, given the extraordinary circumstances surrounding the COVID-19 outbreak, the grading rubric will be revised as needed.  
 
+
+## Course materials
+We will read from several online resources and tutorials. I strongly encourage you to read all of the material in the following:
+
+* [Comprehensive single-cell transcriptional profiling of a multicellular organism (Packer et al)](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/)
+* [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+* [Pro Git](https://git-scm.com/book/en/v2)
+* [BASH basics](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+
+Specific, selected readings for the course will be listed in the course schedule below.
+
+## Helpful software
+
+* [Visual studio code](https://code.visualstudio.com/) - An outstanding code editor and integrated development environment
+* [Rstudio](https://rstudio.com/) - An integrated development environment for R
+
 ## Class schedule
 
 | Date |  Topic | Reading | 
 | ---- | ------------- | ----------------- | 
-|  3/30   | [Course overview, student setup, and version control](slides/XXX) | [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)  | 
+|  3/30   | [Course overview, student setup, and version control](slides/XXX) | [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/; [Packer et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/))  | 
 |  4/1  | [Intro to bioinformatics pipelines, automation](slides/XXX) | [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
 |   4/6   | [](slides/XXX) | | 
 |   4/8  | [](slides/XXX)  | | 
