@@ -62,6 +62,11 @@ We will read from several online resources and tutorials. I strongly encourage y
 * [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 * [Pro Git](https://git-scm.com/book/en/v2)
 * [BASH basics](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+* [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands)
+* [bedtools](https://bedtools.readthedocs.io/en/latest/)
+* [samtools](http://www.htslib.org/doc/samtools.html)
+* [Sed and Awk](https://learning.oreilly.com/library/view/sed-awk/1565922255/)
+* [Sed and Awk, pocket ref](https://learning.oreilly.com/library/view/sed-and-awk/0596003528/)
 
 Specific, selected readings for the course will be listed in the course schedule below.
 
@@ -75,7 +80,7 @@ Specific, selected readings for the course will be listed in the course schedule
 | Date |  Topic | Reading | 
 | ---- | ------------- | ----------------- | 
 |  3/30   | [Course overview, student setup, and version control](slides/class_1_intro/) | [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/; [Packer et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/))  | 
-|  4/1  | [Intro to bioinformatics pipelines, automation](slides/XXX) | [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
+|  4/1  | [Intro to bioinformatics pipelines, automation](slides/XXX) | [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
 |   4/6   | [](slides/XXX) | | 
 |   4/8  | [](slides/XXX)  | | 
 |   4/13  | [](slides/XXX)  | | 
@@ -85,10 +90,8 @@ Specific, selected readings for the course will be listed in the course schedule
 |   4/27  |  | |
 |   4/29  |  | |
 
-<!-- ## Input files
+## Example files
 
-* [sample.fasta](input_files/sample.fasta)
-* [large-scores.txt](input_files/large-scores.txt)
-* [unique-scores.txt](input_files/unique-scores.txt) -->
-
-
+* [qsub job script](example_files/example_qsub.sh)
+* [grep & sed example 1](example_files/grep_sed_example1.txt)
+* [grep & sed example 2](example_files/grep_sed_example1.txt)
