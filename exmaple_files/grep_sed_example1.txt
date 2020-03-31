@@ -1,0 +1,5 @@
+Experiment notes:
+We are using the hg19 genome build
+The cell line is A549
+A549 cells have a KRAS G12C mutation
+Another cell line is MCF7

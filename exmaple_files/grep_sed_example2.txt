@@ -1,0 +1,4 @@
+Experiment notes:
+We are using the hg19 genome build.
+The cell line is A549.
+There is a KRAS G12C mutation in A549 cells. A549's also have a KEAP1 mutation.
