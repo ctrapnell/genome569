@@ -94,4 +94,4 @@ Specific, selected readings for the course will be listed in the course schedule
 
 * [qsub job script](example_files/example_qsub.sh)
 * [grep & sed example 1](example_files/grep_sed_example1.txt)
-* [grep & sed example 2](example_files/grep_sed_example1.txt)
+* [grep & sed example 2](example_files/grep_sed_example2.txt)
