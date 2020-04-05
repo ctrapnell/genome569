@@ -1,0 +1,4 @@
+First	Last	Email	Lightsaber
+Luke	Skywalker	luke@jedi.org	Green
+Ben	Kenobi	kenobi@jedi.org	Blue
+Sheev	Palpatine	sithlord@empire.gov	Red

@@ -1,0 +1,4 @@
+First	Last	Email	Side
+Luke	Skywalker	luke@jedi.org	Light
+Ben	Kenobi	kenobi@jedi.org	Light
+Sheev	Palpatine	sithlord@empire.gov	Dark
