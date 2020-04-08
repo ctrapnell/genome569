@@ -85,7 +85,7 @@ Specific, selected readings for the course will be listed in the course schedule
 |  3/30   | [Course overview, student setup, and version control](slides/class_1_intro/) | [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/; [Packer et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/))  | 
 |  4/1  | [Intro to bioinformatics pipelines, automation](slides/class_2_automation) | [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
 |   4/6   | [Tools for working with tables](slides/class_3_tools_for_tables) | [Sed and Awk](https://learning.oreilly.com/library/view/sed-awk/1565922255/) | 
-|   4/8  | [NGS read alignment](slides/ngs_read_alignment)  | [SAM format](https://samtools.github.io/hts-specs/SAMv1.pdf); [bedtools](https://bedtools.readthedocs.io/en/latest/) | 
+|   4/8  | [NGS read alignment](slides/class_4_ngs_read_alignment)  | [SAM format](https://samtools.github.io/hts-specs/SAMv1.pdf); [bedtools](https://bedtools.readthedocs.io/en/latest/) | 
 |   4/13  | [](slides/XXX)  | | 
 |   4/15   | [](slides/XXX) | | 
 |   4/20   | [](slides/XXX) | | 
