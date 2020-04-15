@@ -72,6 +72,7 @@ We will read from several online resources and tutorials. I strongly encourage y
 * [bedtools](https://bedtools.readthedocs.io/en/latest/)
 * [R Markdown: the definitive guide](https://bookdown.org/yihui/rmarkdown/)
 * [R for Data Science](https://r4ds.had.co.nz/)
+* [ggplot2: elegant graphics for data analysis](https://github.com/hadley/ggplot2-book)
 
 Specific, selected readings for the course will be listed in the course schedule below.
 
@@ -89,7 +90,7 @@ Specific, selected readings for the course will be listed in the course schedule
 |   4/6   | [Tools for working with tables](slides/class_3_tools_for_tables) | [Sed and Awk](https://learning.oreilly.com/library/view/sed-awk/1565922255/) | 
 |   4/8  | [NGS read alignment](slides/class_4_ngs_read_alignment)  | [SAM format](https://samtools.github.io/hts-specs/SAMv1.pdf); [bedtools](https://bedtools.readthedocs.io/en/latest/) | 
 |   4/13  | [Electronic lab notebooks](slides/class_5_electronic_lab_notebooks)  | [R Markdown (chapter 3)](https://samtools.github.io/hts-specs/SAMv1.pdf); | 
-|   4/15   | [](slides/XXX) | | 
+|   4/15   | [Making figures](slides/class_6_making_figures)  | * [R for Data Science (Chapters 3 and 7)](https://r4ds.had.co.nz/) | 
 |   4/20   | [](slides/XXX) | | 
 |   4/22   | [](slides/XXX) |  
 |   4/27  |  | |
