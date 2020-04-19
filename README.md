@@ -91,7 +91,7 @@ Specific, selected readings for the course will be listed in the course schedule
 |   4/8  | [NGS read alignment](slides/class_4_ngs_read_alignment)  | [SAM format](https://samtools.github.io/hts-specs/SAMv1.pdf); [bedtools](https://bedtools.readthedocs.io/en/latest/) | 
 |   4/13  | [Electronic lab notebooks](slides/class_5_electronic_lab_notebooks)  | [R Markdown (chapter 3)](https://samtools.github.io/hts-specs/SAMv1.pdf); | 
 |   4/15   | [Making figures](slides/class_6_making_figures)  | * [R for Data Science (Chapters 3 and 7)](https://r4ds.had.co.nz/) | 
-|   4/20   | [](slides/XXX) | | 
+|   4/20   | [Tools for working with tables, part II](slides/class_7_tools_for_tables_part_2)| * [R for Data Science (Chapters 10, 12, and 5 )](https://r4ds.had.co.nz/)  | 
 |   4/22   | [](slides/XXX) |  
 |   4/27  |  | |
 |   4/29  |  | |
