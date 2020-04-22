@@ -73,6 +73,8 @@ We will read from several online resources and tutorials. I strongly encourage y
 * [R Markdown: the definitive guide](https://bookdown.org/yihui/rmarkdown/)
 * [R for Data Science](https://r4ds.had.co.nz/)
 * [ggplot2: elegant graphics for data analysis](https://github.com/hadley/ggplot2-book)
+* [Monocle: an analyis toolkit for single-cell RNA-seq](https://cole-trapnell-lab.github.io/monocle3/)
+* [Garnett: Automated cell type classification](https://cole-trapnell-lab.github.io/garnett/)
 
 Specific, selected readings for the course will be listed in the course schedule below.
 
@@ -92,7 +94,7 @@ Specific, selected readings for the course will be listed in the course schedule
 |   4/13  | [Electronic lab notebooks](slides/class_5_electronic_lab_notebooks)  | [R Markdown (chapter 3)](https://samtools.github.io/hts-specs/SAMv1.pdf); | 
 |   4/15   | [Making figures](slides/class_6_making_figures)  | * [R for Data Science (Chapters 3 and 7)](https://r4ds.had.co.nz/) | 
 |   4/20   | [Tools for working with tables, part II](slides/class_7_tools_for_tables_part_2)| * [R for Data Science (Chapters 10, 12, and 5 )](https://r4ds.had.co.nz/)  | 
-|   4/22   | [](slides/XXX) |  
+|   4/22   | [Tools for single-cell RNA-seq](slides/class_7_tools_for_tables_part_2) | [Monocle documentation](https://cole-trapnell-lab.github.io/monocle3/); [Garnett documentation](https://cole-trapnell-lab.github.io/garnett/) |  
 |   4/27  |  | |
 |   4/29  |  | |
 
