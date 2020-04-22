@@ -94,7 +94,7 @@ Specific, selected readings for the course will be listed in the course schedule
 |   4/13  | [Electronic lab notebooks](slides/class_5_electronic_lab_notebooks)  | [R Markdown (chapter 3)](https://samtools.github.io/hts-specs/SAMv1.pdf); | 
 |   4/15   | [Making figures](slides/class_6_making_figures)  | * [R for Data Science (Chapters 3 and 7)](https://r4ds.had.co.nz/) | 
 |   4/20   | [Tools for working with tables, part II](slides/class_7_tools_for_tables_part_2)| * [R for Data Science (Chapters 10, 12, and 5 )](https://r4ds.had.co.nz/)  | 
-|   4/22   | [Tools for single-cell RNA-seq](slides/class_7_tools_for_tables_part_2) | [Monocle documentation](https://cole-trapnell-lab.github.io/monocle3/); [Garnett documentation](https://cole-trapnell-lab.github.io/garnett/) |  
+|   4/22   | [Tools for single-cell RNA-seq](slides/class_8_tools_for_sc_rna_seq) | [Monocle documentation](https://cole-trapnell-lab.github.io/monocle3/); [Garnett documentation](https://cole-trapnell-lab.github.io/garnett/) |  
 |   4/27  |  | |
 |   4/29  |  | |
 
