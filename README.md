@@ -91,11 +91,11 @@ Specific, selected readings for the course will be listed in the course schedule
 |  4/1  | [Intro to bioinformatics pipelines, automation](slides/class_2_automation) | [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
 |   4/6   | [Tools for working with tables](slides/class_3_tools_for_tables) | [Sed and Awk](https://learning.oreilly.com/library/view/sed-awk/1565922255/) | 
 |   4/8  | [NGS read alignment](slides/class_4_ngs_read_alignment)  | [SAM format](https://samtools.github.io/hts-specs/SAMv1.pdf); [bedtools](https://bedtools.readthedocs.io/en/latest/) | 
-|   4/13  | [Electronic lab notebooks](slides/class_5_electronic_lab_notebooks)  | [R Markdown (chapter 3)](https://samtools.github.io/hts-specs/SAMv1.pdf); | 
+|   4/13  | [Electronic lab notebooks](slides/class_5_electronic_lab_notebooks)  | [R Markdown (chapter 3)](https://bookdown.org/yihui/rmarkdown/) | 
 |   4/15   | [Making figures](slides/class_6_making_figures)  | * [R for Data Science (Chapters 3 and 7)](https://r4ds.had.co.nz/) | 
 |   4/20   | [Tools for working with tables, part II](slides/class_7_tools_for_tables_part_2)| * [R for Data Science (Chapters 10, 12, and 5 )](https://r4ds.had.co.nz/)  | 
 |   4/22   | [Tools for single-cell RNA-seq](slides/class_8_tools_for_sc_rna_seq) | [Monocle documentation](https://cole-trapnell-lab.github.io/monocle3/); [Garnett documentation](https://cole-trapnell-lab.github.io/garnett/) |  
-|   4/27  |  | |
+|   4/27  | [Relational databases](slides/class_9_relational_databases) | * [R for Data Science (Chapter 13)](https://r4ds.had.co.nz/) |
 |   4/29  |  | |
 
 ## Example files
