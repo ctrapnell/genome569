@@ -18,14 +18,13 @@ Programming skills and software tools for building automated bioinformatics pipe
 
 ## Instructional staff
 * [Cole Trapnell](http://cole-trapnell-lab.github.io/)
-* Teaching assistant: April Lo
 
 Please click on the links above for email addresses and office locations.
 
 ## Meeting times and locations
 ### Classes: 
 
-Monday and Wednesday, 10:30 - 12:20 am, [zoom](http://www.washington.edu/home/maps/southcentral.html?gnom).
+Monday and Wednesday, 9:00-10:20 am, Foege S110 (http://www.washington.edu/home/maps/southcentral.html?gnom).
 
 ### Class Slack: 
 We will use Slack during class and outside of class to communicate, share code snippets, ask and answer questions. The class slack is here:
@@ -52,7 +51,7 @@ You will receive an invitation to join prior to the first class.
 There will be no examinations.
 
 ## Course grade
-Grades will come 50% from the programming projects and 50% from class participation. However, given the extraordinary circumstances surrounding the COVID-19 outbreak, the grading rubric will be revised as needed.  
+Grades will come 50% from the programming projects and 50% from class participation.   
 
 
 ## Course materials
@@ -94,11 +93,9 @@ Specific, selected readings for the course will be listed in the course schedule
 |   4/5   | [Tools for working with tables](slides/class_3_tools_for_tables) | [Sed and Awk](https://learning.oreilly.com/library/view/sed-awk/1565922255/) | 
 |   4/10  | [NGS read alignment](slides/class_4_ngs_read_alignment)  | [SAM format](https://samtools.github.io/hts-specs/SAMv1.pdf); [bedtools](https://bedtools.readthedocs.io/en/latest/) | 
 |   4/12  | [Electronic lab notebooks and Figures ](slides/class_5_electronic_lab_notebooks); [Making figures](slides/class_6_making_figures)  | [R Markdown (chapter 3)](https://bookdown.org/yihui/rmarkdown/); [R for Data Science (Chapters 3 and 7)](https://r4ds.had.co.nz/)| 
-<!-- |   4/17   |   | * [R for Data Science (Chapters 3 and 7)](https://r4ds.had.co.nz/) |  -->
 |   4/17   | [Tools for working with tables, part II](slides/class_7_tools_for_tables_part_2); [Relational databases](slides/class_9_relational_databases)| [R for Data Science (Chapters 10, 12, and 5 )](https://r4ds.had.co.nz/);  [R for Data Science (Chapter 13)](https://r4ds.had.co.nz/)  | 
 |   4/19   | no class, Cole has conflict | 
 |   4/24   | [Tools for single-cell RNA-seq](slides/class_8_tools_for_sc_rna_seq) | [Monocle documentation](https://cole-trapnell-lab.github.io/monocle3/); [Garnett documentation](https://cole-trapnell-lab.github.io/garnett/) |  
-<!-- |   4/26  | [Relational databases](slides/class_9_relational_databases) | * [R for Data Science (Chapter 13)](https://r4ds.had.co.nz/) | -->
 |   4/29  | [R packages](slides/class_10_R_packages) | [R packages (Wickham)](http://r-pkgs.had.co.nz/) |
 
 ## Example files
