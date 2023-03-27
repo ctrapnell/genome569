@@ -87,7 +87,7 @@ Specific, selected readings for the course will be listed in the course schedule
 
 | Date |  Topic | Reading | 
 | ---- | ------------- | ----------------- | 
-|  3/27   | [Course overview, student setup, and version control](slides/class_1_intro/) | [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/; [Packer et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/))  | 
+|  3/27   | [Course overview, student setup, and version control](slides/class_1_intro/) | [Git Basics](https://https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/; [Packer et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/))  | 
 |  3/29  | [Intro to bioinformatics pipelines, automation](slides/class_2_automation) | [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
 |   4/3   | no class, Cole at NHGRI Training Meeting | |
 |   4/5   | [Tools for working with tables](slides/class_3_tools_for_tables) | [Sed and Awk](https://learning.oreilly.com/library/view/sed-awk/1565922255/) | 
