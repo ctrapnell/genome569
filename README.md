@@ -87,16 +87,16 @@ Specific, selected readings for the course will be listed in the course schedule
 
 | Date |  Topic | Reading | 
 | ---- | ------------- | ----------------- | 
-|  3/27   | [Course overview, student setup, and version control](slides/class_1_intro/) | [Git Basics](https://https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/; [Packer et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/))  | 
-|  3/29  | [Intro to bioinformatics pipelines, automation](slides/class_2_automation) | [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
+|  3/27   | Course overview, student setup, and version control [html](slides/class_1_intro/) [pdf](slides/class_1_intro.pdf) | [Git Basics](https://https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/; [Packer et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/))  | 
+|  3/29  | Intro to bioinformatics pipelines, automation [html](slides/class_2_automation) | [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | 
 |   4/3   | no class, Cole at NHGRI Training Meeting | |
-|   4/5   | [Tools for working with tables](slides/class_3_tools_for_tables) | [Sed and Awk](https://learning.oreilly.com/library/view/sed-awk/1565922255/) | 
-|   4/10  | [NGS read alignment](slides/class_4_ngs_read_alignment)  | [SAM format](https://samtools.github.io/hts-specs/SAMv1.pdf); [bedtools](https://bedtools.readthedocs.io/en/latest/) | 
-|   4/12  | [Electronic lab notebooks and Figures ](slides/class_5_electronic_lab_notebooks); [Making figures](slides/class_6_making_figures)  | [R Markdown (chapter 3)](https://bookdown.org/yihui/rmarkdown/); [R for Data Science (Chapters 3 and 7)](https://r4ds.had.co.nz/)| 
-|   4/17   | [Tools for working with tables, part II](slides/class_7_tools_for_tables_part_2); [Relational databases](slides/class_9_relational_databases)| [R for Data Science (Chapters 10, 12, and 5 )](https://r4ds.had.co.nz/);  [R for Data Science (Chapter 13)](https://r4ds.had.co.nz/)  | 
+|   4/5   | Tools for working with tables [html](slides/class_3_tools_for_tables) | [Sed and Awk](https://learning.oreilly.com/library/view/sed-awk/1565922255/) | 
+|   4/10  | NGS read alignment [html](slides/class_4_ngs_read_alignment)  | [SAM format](https://samtools.github.io/hts-specs/SAMv1.pdf); [bedtools](https://bedtools.readthedocs.io/en/latest/) | 
+|   4/12  | Electronic lab notebooks and Figures  [html](slides/class_5_electronic_lab_notebooks); Making figures [html](slides/class_6_making_figures)  | [R Markdown (chapter 3)](https://bookdown.org/yihui/rmarkdown/); R for Data Science (Chapters 3 and 7) [html](https://r4ds.had.co.nz/)| 
+|   4/17   | Tools for working with tables, part II [html](slides/class_7_tools_for_tables_part_2); Relational databases [html](slides/class_9_relational_databases)| [R for Data Science (Chapters 10, 12, and 5 )](https://r4ds.had.co.nz/);  [R for Data Science (Chapter 13)](https://r4ds.had.co.nz/)  | 
 |   4/19   | no class, Cole has conflict | 
-|   4/24   | [Tools for single-cell RNA-seq](slides/class_8_tools_for_sc_rna_seq) | [Monocle documentation](https://cole-trapnell-lab.github.io/monocle3/); [Garnett documentation](https://cole-trapnell-lab.github.io/garnett/) |  
-|   4/29  | [R packages](slides/class_10_R_packages) | [R packages (Wickham)](http://r-pkgs.had.co.nz/) |
+|   4/24   | Tools for single-cell RNA-seq [html](slides/class_8_tools_for_sc_rna_seq) | [Monocle documentation](https://cole-trapnell-lab.github.io/monocle3/); [Garnett documentation](https://cole-trapnell-lab.github.io/garnett/) |  
+|   4/29  | R packages [html](slides/class_10_R_packages) | [R packages (Wickham)](http://r-pkgs.had.co.nz/) |
 
 ## Example files
 
