@@ -92,7 +92,7 @@ Specific, selected readings for the course will be listed in the course schedule
 |  3/27  | Intro to bioinformatics pipelines, automation [html](slides/class_2_automation) | [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) | |
 |   4/1   | Tools for working with tables [html](slides/class_3_tools_for_tables) | [Sed and Awk](https://learning.oreilly.com/library/view/sed-awk/1565922255/) | |
 |   4/3   | NGS read alignment [html](slides/class_4_ngs_read_alignment)  | [SAM format](https://samtools.github.io/hts-specs/SAMv1.pdf); [bedtools](https://bedtools.readthedocs.io/en/latest/) | |
-|   4/8  | no class, Cole at NHGRI Training Meeting | Project 1 due | |
+|   4/8  | no class, Cole at NHGRI Training Meeting | | Project 1 due | 
 |   4/10   | Bespoke tools for exploratory analysis [html](slides/class_8_tools_for_sc_rna_seq) | [Monocle documentation](https://cole-trapnell-lab.github.io/monocle3/); [Garnett documentation](https://cole-trapnell-lab.github.io/garnett/) |  |
 |   4/15  | Electronic lab notebooks with Markdown [html](slides/class_5_electronic_lab_notebooks);  |  [R for Data Science (Chapter 27)](https://r4ds.had.co.nz/); [R Markdown (chapter 3)](https://bookdown.org/yihui/rmarkdown/) | |
 |   4/17   | Making figures [html](slides/class_6_making_figures) |  [R for Data Science (Chapter 13)](https://r4ds.had.co.nz/)  | |
