@@ -18,7 +18,6 @@ Programming skills and software tools for building automated bioinformatics pipe
 
 ## Instructional staff
 * [Cole Trapnell](http://cole-trapnell-lab.github.io/team/cole-trapnell/)
-* [Andrew Mullen](https://cole-trapnell-lab.github.io/team/Andrew-Mullen-copy/)
 
 Please click on the links above for email addresses.
 
@@ -45,7 +44,15 @@ You will receive an invitation to join prior to the first class.
 ## Course requirements
 * The course involves hands-on programming during class time. We will use the GS compute cluster, so make sure you can log into it from your computer remotely.
 * All programming projects are due by the start of class on the date listed.
-* You are welcome to talk to classmates about principles for solving problems, but please do not share code or program together. In many ways, writing your own code is where you will learn the most for this class.
+
+## Setting up your computer
+* We will make extensive use of GitHub and GitHub Co-pilot in the class. If you are a student, [you can get free Co-pilot access](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-github-copilot-pro-subscription/getting-free-access-to-copilot-pro-as-a-student-teacher-or-maintainer). ** Please make sure you have a GitHub account and Co-pilot access before the first class **. 
+* Email me your github ID prior to the first class.
+* Please make sure to install [Visual Studio Code](https://code.visualstudio.com/) on your laptop before coming to class
+* We will be using both R and python at various points in the course. 
+  * **You are responsible** for being able to maintain your R and Python environments so that you can do the in-class exercises. 
+  * [This guide](https://www.datanovia.com/books/r-in-vscode/) may be helpful for setting up R for use with Visual Studio Code. 
+  * [This guide](https://code.visualstudio.com/docs/python/python-tutorial) may be helpful for using python with Visual Studio Code.
 
 ## Examinations
 
@@ -53,7 +60,6 @@ There will be no examinations.
 
 ## Course grade
 Grades will come 50% from the programming projects and 50% from class participation.   
-
 
 ## Course materials
 We will read from several online resources and tutorials. I strongly encourage you to read all of the material in the following:
@@ -86,6 +92,9 @@ Specific, selected readings for the course will be listed in the course schedule
 
 ## Class schedule
 
+Coming soon.
+
+<!-- 
 | Date |  Topic | Reading | Assigments
 | ---- | ------------- | ----------------- | ---------- | 
 |  3/25   | Course overview, student setup, and version control [html](slides/class_1_intro/) [pdf](slides/class_1_intro.pdf) | [Git Basics](https://https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/; [Packer et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/))  | |
@@ -97,11 +106,13 @@ Specific, selected readings for the course will be listed in the course schedule
 |   4/15  | Electronic lab notebooks with Markdown [html](slides/class_5_electronic_lab_notebooks);  |  [R for Data Science (Chapter 27)](https://r4ds.had.co.nz/); [R Markdown (chapter 3)](https://bookdown.org/yihui/rmarkdown/) | |
 |   4/17   | Making figures [html](slides/class_6_making_figures) |  [R for Data Science (Chapter 13)](https://r4ds.had.co.nz/)  | |
 |   4/22   | Tools for working with tables, part II [html](slides/class_7_tools_for_tables_part_2); Relational databases [html](slides/class_9_relational_databases)| [R for Data Science (Chapters 10, 12, and 5 )](https://r4ds.had.co.nz/);  [R for Data Science (Chapter 13)](https://r4ds.had.co.nz/)  | |
-|   4/24   | R packages [html](slides/class_10_R_packages) | [R packages (Wickham)](http://r-pkgs.had.co.nz/) |  Project 2 due | |
+|   4/24   | R packages [html](slides/class_10_R_packages) | [R packages (Wickham)](http://r-pkgs.had.co.nz/) |  Project 2 due | | -->
 
 ## Example files
 
-* [qsub job script](example_files/example_qsub.sh)
+Coming soon.
+
+<!-- * [qsub job script](example_files/example_qsub.sh)
 * [grep & sed example 1](example_files/grep_sed_example1.txt)
 * [grep & sed example 2](example_files/grep_sed_example2.txt)
 * [jedi table 1](example_files/jedi_example1.txt)
@@ -110,4 +121,4 @@ Specific, selected readings for the course will be listed in the course schedule
 * [example sci-RNA-seq read1](example_files/exampleR1.fastq)
 * [example sci-RNA-seq read2](example_files/exampleR2.fastq)
 * [small_reads.fastq](example_files/small_reads.fastq)
-* [genes.bed](example_files/genes.bed)
+* [genes.bed](example_files/genes.bed) -->
