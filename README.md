@@ -48,7 +48,8 @@ You will receive an invitation to join prior to the first class.
 ## Setting up your computer
 * We will make extensive use of GitHub and GitHub Co-pilot in the class. If you are a student, [you can get free Co-pilot access](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-github-copilot-pro-subscription/getting-free-access-to-copilot-pro-as-a-student-teacher-or-maintainer). **Please make sure you have a GitHub account and Co-pilot access before the first class**. 
 * Email me your github ID prior to the first class.
-* Please make sure to install [Visual Studio Code](https://code.visualstudio.com/) on your laptop before coming to class
+* Install [Visual Studio Code](https://code.visualstudio.com/).
+* [Configure](https://code.visualstudio.com/docs/copilot/setup) Visual Studio Code to work with GitHub Co-pilot.
 * We will be using both R and python at various points in the course. 
   * **You are responsible** for being able to maintain your R and Python environments so that you can do the in-class exercises. 
   * [This guide](https://www.datanovia.com/books/r-in-vscode/) may be helpful for setting up R for use with Visual Studio Code. 
