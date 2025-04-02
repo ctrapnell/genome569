@@ -93,10 +93,12 @@ Specific, selected readings for the course will be listed in the course schedule
 
 ## Class schedule
 
-| Date |  Topic | Reading | Assigments
-| ---- | ------------- | ----------------- | ---------- | 
-|  3/31   | Course overview, student setup, and version control [html](slides/class_1_intro/) [pdf](slides/class_1_intro.pdf) | [Git Basics](https://https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/;  | |
-|  4/2  | Intro to bioinformatics pipelines, automation [html](slides/class_2_automation) [pdf](slides/class_2_automation.pdf)  | [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html);  [Cao et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/);  [Packer et al](https://cole-trapnell-lab.github.io/papers/packer-zhu-science/) | |
+| Date |  Topic | Reading | 
+| ---- | ------------- | ----------------- | 
+|  3/31   | Course overview, student setup, and version control [pdf](slides/class_1_intro.pdf) | [Git Basics](https://https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/);  | 
+|  4/2  | Intro to bioinformatics pipelines, automation [pdf](slides/class_2_vibecoding.pdf)   | [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html);  [Cao et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/);  [Packer et al](https://cole-trapnell-lab.github.io/papers/packer-zhu-science/) | 
+|  4/9  | Read alignment [pdf](slides/class_3_alignment.pdf)   | [SAM format](https://samtools.github.io/hts-specs/SAMv1.pdf); [bedtools](https://bedtools.readthedocs.io/en/latest/)  | 
+|  4/14  | Workflow automation [pdf](slides/class_4_automation.pdf)   |  [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html);   | 
 
 <!-- 
 |   4/1   | Tools for working with tables [html](slides/class_3_tools_for_tables) | [Sed and Awk](https://learning.oreilly.com/library/view/sed-awk/1565922255/) | |
