@@ -112,7 +112,8 @@ Specific, selected readings for the course will be listed in the course schedule
 
 ## Example files
 
-Coming soon.
+* [small_reads.fastq](example_files/small_reads.fastq)
+* [genes.bed](example_files/genes.bed) 
 
 <!-- * [qsub job script](example_files/example_qsub.sh)
 * [grep & sed example 1](example_files/grep_sed_example1.txt)
@@ -122,5 +123,4 @@ Coming soon.
 * [jedi table 3](example_files/jedi_example3.txt)
 * [example sci-RNA-seq read1](example_files/exampleR1.fastq)
 * [example sci-RNA-seq read2](example_files/exampleR2.fastq)
-* [small_reads.fastq](example_files/small_reads.fastq)
-* [genes.bed](example_files/genes.bed) -->
+-->
