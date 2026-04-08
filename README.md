@@ -96,9 +96,11 @@ Specific, selected readings for the course will be listed in the course schedule
 | Date |  Topic | Reading | 
 | ---- | ------------- | ----------------- | 
 |  3/30   | Course overview, student setup, and version control [pdf](slides/class_1_intro.pdf) | [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/);  | 
-|  4/1  | Intro to bioinformatics pipelines, automation [pdf](slides/class_2_alignment.pdf)   | [Cao et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/);  [Packer et al](https://cole-trapnell-lab.github.io/papers/packer-zhu-science/); [Shen & Tamkin](https://arxiv.org/abs/2601.20245) | 
+|  4/1  | Intro to bioinformatics pipelines, automation [pdf](slides/class_2_alignment.pdf)   | [Cao et al](http://cole-trapnell-lab.github.io/papers/cao-scrnaseq-combinatorial-indexing/);  [Packer et al](https://cole-trapnell-lab.github.io/papers/packer-zhu-science/); | 
 |  4/6  | Read alignment [pdf](slides/class_2_alignment.pdf)   | [SAM format](https://samtools.github.io/hts-specs/SAMv1.pdf); [bedtools](https://bedtools.readthedocs.io/en/latest/); [STAR](https://github.com/alexdobin/STAR); [STARsolo](https://www.biorxiv.org/content/10.1101/2021.05.05.442755v1)  | 
-<!-- |  4/13  | Workflow automation [pdf](slides/class_4_automation.pdf)   |  [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html); [Snakemake](https://slides.com/johanneskoester/snakemake-tutorial)  | 
+|  4/8  | Vibecoding [pdf](slides/class_3_vibecoding.pdf)   | [Shen & Tamkin](https://arxiv.org/abs/2601.20245)  | 
+ |  4/13  | Workflow automation [pdf](slides/class_4_automation.pdf)   |  [Essential UNIX](https://www.unixtutorial.org/basic-unix-commands); [BASH basics (sections 1-7)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html); [Snakemake](https://slides.com/johanneskoester/snakemake-tutorial)  | 
+<!--
 |  4/15  | Exploratory data analysis [pdf](slides/class_5_eda.pdf)   | [R for Data Science (Chapter 13 especially)](https://r4ds.had.co.nz/)  | 
 
 |  4/20  | Electronic lab notebooks with R Markdown [pdf](slides/class_6_rmarkdown.pdf)   | [R for Data Science (Chapter 27)](https://r4ds.had.co.nz/); [R Markdown (chapter 3)](https://bookdown.org/yihui/rmarkdown/)  |  -->
